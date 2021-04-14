@@ -1,5 +1,5 @@
 {
-    "name": "cardinity/cardinity-sdk-php",
+    "name": "jpranskaitis/cardinity-sdk-php",
     "description": "Client library for Cardinity credit card processing API",
     "type": "library",
     "license": "MIT",
