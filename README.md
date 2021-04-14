@@ -13,7 +13,7 @@ More detailed documentation with usage examples can be found [here](https://gith
 ## Usage
 ### Installing via [Composer](https://getcomposer.org)
 ```bash
-$ php composer.phar require cardinity/cardinity-sdk-php
+$ php composer.phar require jpranskaitis/cardinity-sdk-php
 ```
 ### Direct Download
 You can download the [latest release](https://github.com/cardinity/cardinity-sdk-php/releases/latest) file starting with ```cardinity-sdk-php-*.zip```.
